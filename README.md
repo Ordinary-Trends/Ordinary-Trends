@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Ordinary-Trends;
+- 👋 Hi, I’m @zeuz;
 - 👀 I’m interested in making new projects and inspiring others;
 - 🌱 I’m currently learning j.s and react.js;
 - 💞️ I’m looking to collaborate on new projects which use UI and UX;
